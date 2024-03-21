@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&family=Grand+Hotel&display=swap');
+
+*{
+    font-family: "Gabarito", sans-serif;
+}
+
+.displayHidden{
+    display: none !important;
+}
+
+.headings{
+    font-size: 46px;
+}
+
+.wHundred{
+    width: 100%;
+}
+
+.para{
+    color: #72798e;
+    font-size: 18px;
+}
+
+.greenPara{
+    font-size: 18px;
+    color: #4ea28a;
+}
+
+.green{
+    color: #4ea28a;
+}
+
+.grey{
+    color: #72798e;
+}
+
+.bgGrey{
+    background-color: #f3f3f3;
+}
+
+.bgGreen{
+    background-color: #4ea28a;
+}
+
+p{
+    margin-bottom: 0;
+}
+
+.topContainer{
+    background-color: #f3f3f3;
+}
+
+.navBarLogo{
+    width: 37px;
+    height: 37px;
+    background-color: #4ea28a;
+    font-size: 22px;
+}
+
+.ps-2,.navButtons button,.realEstate{
+    color: #4ea28a;
+}
+
+.navButtons button:hover,.nav-link:hover{
+    color: white;
+    background-color: #4ea28a;
+}
+
+.topContainerContent{
+    padding: 4% 0 10% 0;
+    background-image: url(../images/topContainerImg.png);
+    background-position: right -4rem bottom 1rem;
+    background-size: 56% 100%;
+    background-repeat: no-repeat;
+}
+
+.realEstate{
+    background-color: #fff;
+}
+
+.topContainerHeading h1{
+    font-size: 70px;
+    line-height: 1;
+}
+
+.topContainerPara p{
+    font-weight: 400;
+    color: #72798e;
+}
+
+.buyOrRentContainer h2{
+    color: #72798e;
+    background-color: white;
+    cursor: pointer;
+}
+
+.buyOrRentContainer h2:hover{
+    color: #4ea28a;
+}
+
+.buyingDetailsCont{
+    background-color: white;
+}
+
+.downArrow{
+    display: inline-block;
+    transform: rotate(90deg);
+}
+
+.radioBtnDropDown p{
+    font-size: 17px;
+}
+
+.searchBtn button{
+    background-color: #4ea28a;
+    color: white;
+}
+
+.buyingOrSellDetails{
+    color: #72798e;
+    font-weight: 100;
+}
+
+.recomendationContainer{
+    padding: 8% 0;
+}
+
+.discover p{
+    color: #4ea28a;
+    background-color: #f3f3f3
+} 
+
+.card{
+    --bs-card-spacer-y: none; 
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.card:hover{
+    transform: translateY(-15px);
+}
+
+.recomendationBtn{
+    border: 1px solid #4ea28a;
+}
+
+.recomendationBtn:hover{
+    background-color: #4ea28a;
+}
+
+.recomendationBtn:hover > button{
+    color: white;
+}
+
+.advante p{
+    background-color: white;
+}
+
+.advanteContainer{
+    padding: 6% 0;
+}
+
+.aboutUs{
+    padding: 12% 0 8% 0;
+}
+
+.aboutUsLeft{
+    padding-top: 21rem;
+    background-image: url(../images/aboutUsImg.jpg);
+    background-size: 100% 100%;
+}
+
+.aboutLeftBottom{
+    width: 80%;
+    background-color: white;
+    border-bottom: 1px solid #f3f3f3;
+    border-right: 1px solid #f3f3f3;
+}
+
+.aboutLeftTop{
+    top: -15%;
+    left: 19%;
+    background-color: white;
+    width: 27%;
+}
+
+.aboutUsRightContent button{
+    color: white;
+}
+
+.testemonial{
+    padding-bottom: 8%;
+}
+
+.footerForm button{
+    color: white;
+}
+
+.socilaRounded{
+    width: 40px;
+    height: 40px;
+    background-color: white;
+}
+
+
+
+
+
